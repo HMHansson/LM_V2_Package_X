@@ -23,6 +23,7 @@
       <value name="is_global">false</value>
       <array name="rec_fields" type="record" depth="1">
       </array>
+      <value name="rec_closed">false</value>
       <value name="modifiable">true</value>
     </record>
     <record name="sig_out" javaclass="com.wm.util.Values">
@@ -43,6 +44,7 @@
       <value name="is_global">false</value>
       <array name="rec_fields" type="record" depth="1">
       </array>
+      <value name="rec_closed">false</value>
       <value name="modifiable">true</value>
     </record>
   </record>

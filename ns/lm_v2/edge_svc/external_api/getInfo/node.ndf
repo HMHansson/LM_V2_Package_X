@@ -53,7 +53,7 @@
             <value name="field_password">false</value>
           </record>
           <value name="is_public">false</value>
-          <value name="field_name">result</value>
+          <value name="field_name">response</value>
           <value name="field_type">string</value>
           <value name="field_dim">0</value>
           <array name="field_options" type="value" depth="1">
@@ -81,7 +81,7 @@
   <value name="retry_interval">0</value>
   <value name="svc_in_validator_options">none</value>
   <value name="svc_out_validator_options">none</value>
-  <value name="auditoption">2</value>
+  <value name="auditoption">1</value>
   <null name="auditfields_input"/>
   <null name="auditfields_output"/>
   <record name="auditsettings" javaclass="com.wm.util.Values">
